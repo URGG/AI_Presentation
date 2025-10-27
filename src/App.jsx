@@ -546,7 +546,7 @@ function App() {
                     : 'text-gray-600 hover:text-gray-800'
                 }`}
               >
-                📊 Main Presentation
+                 Main Presentation
               </button>
               <button
                 onClick={() => setActiveTab('examples')}
@@ -556,7 +556,7 @@ function App() {
                     : 'text-gray-600 hover:text-gray-800'
                 }`}
               >
-                💡 Real Examples
+                 Real Examples
               </button>
               <button
                 onClick={() => setActiveTab('howto')}
@@ -566,7 +566,7 @@ function App() {
                     : 'text-gray-600 hover:text-gray-800'
                 }`}
               >
-                🎯 How to Use AI Responsibly
+                 How to Use AI Responsibly
               </button>
               <button
                 onClick={() => setActiveTab('myths')}
@@ -576,7 +576,7 @@ function App() {
                     : 'text-gray-600 hover:text-gray-800'
                 }`}
               >
-                ❌ Myths vs Facts
+                 Myths vs Facts
               </button>
             </div>
           </div>
