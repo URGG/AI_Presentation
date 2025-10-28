@@ -193,7 +193,7 @@ function App() {
         <div className={`flex flex-col items-center justify-center h-96 space-y-8 transition-all duration-1000 ${animateIn ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}>
           <TrendingUp size={120} className="text-gray-900 animate-pulse" strokeWidth={2.5} />
           <p className="text-3xl text-gray-700 max-w-3xl text-center font-medium">
-            AI isn't a trend—it's the future of work and education. Let's look at the data.
+            AI isn't a trend it's the future of work and education. Let's look at the data.
           </p>
           <button
             onClick={nextSlide}
@@ -362,7 +362,7 @@ function App() {
           </div>
           <div className="bg-gray-900 text-white p-8 rounded-2xl max-w-4xl mt-8 shadow-2xl">
             <p className="text-2xl italic text-center font-medium">
-              "The question isn't whether AI will be part of education—it already is. The question is whether we'll teach students to use it wisely."
+              "The question isn't whether AI will be part of education it already is. The question is whether we'll teach students to use it wisely."
             </p>
           </div>
         </div>
@@ -699,7 +699,7 @@ function App() {
 
           {activeTab === 'examples' && (
             <div className="max-w-5xl mx-auto space-y-6">
-              <h2 className="text-3xl font-bold text-gray-800 mb-6">Real-World Examples of AI in Education</h2>
+              <h2 className="text-3xl font-bold text-gray-800 mb-6">Real World Examples of AI in Education</h2>
               
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-gray-900">
                 <h3 className="text-xl font-bold text-gray-900 mb-3">Wharton Business School (Ethan Mollick)</h3>
@@ -904,7 +904,7 @@ function App() {
                         <span className="text-3xl">✅</span>
                         <div>
                           <h4 className="font-bold text-gray-900 mb-1">FACT:</h4>
-                          <p className="text-gray-700">74% of entry-level jobs now require AI skills. Student usage grew from 12% to 89% in three years. <strong>AI isn't the future—it's the present</strong>.</p>
+                          <p className="text-gray-700">74% of entry-level jobs now require AI skills. Student usage grew from 12% to 89% in three years. <strong>AI isn't the future it's the present</strong>.</p>
                         </div>
                       </div>
                     </div>
